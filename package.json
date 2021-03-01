@@ -1,0 +1,19 @@
+{
+  "name": "user-review",
+  "version": "1.0.0",
+  "description": "user review for application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.sorbonne-paris-nord.fr:12013370/user-review-package.git"
+  },
+
+  "author": "Abderrezak FENOUCHE",
+  "license": "ISC"
+}
